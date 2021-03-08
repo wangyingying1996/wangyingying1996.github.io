@@ -4,7 +4,7 @@
 	"#nav_Home": "Home",
 	"#nav_Work": "Work Experience",
 	"#nav_Latest": "Latest Projects",
-	"#nav_Past": "Past Projects",
+	
 	"#nav_Education": "Education",
 	"#nav_Skills": "Skills",
 	"#nav_Contact": "Contact Me",
@@ -34,7 +34,8 @@
 	"#jbc3":"Cram school teacher for elementary school students, in charge of 12 students",
 	"#jbc4":"Interpreter",
 	"#pjc1":"Trained Yolo5 using customized cat pictures labeled in MATLAB",
-	"#pjc2":"Realtime cat detection up to 30fps(camera frame rate) on GPU"
+	"#pjc2":"Realtime cat detection up to 30fps(camera frame rate) on GPU",
+	"#oeesk":"Skills"
 	
 	
 	
